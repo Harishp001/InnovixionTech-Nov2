@@ -1,0 +1,28 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/* styles.css */
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.label {
+    -fx-text-fill: #333333;
+}
+
+.button {
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-min-width: 80px;
+    -fx-border-radius: 5px;
+}
+
+#submitButton {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+#closeButton {
+    -fx-background-color: #f44336;
+    -fx-text-fill: white;
+}
+
+/* Customize other elements as needed */
